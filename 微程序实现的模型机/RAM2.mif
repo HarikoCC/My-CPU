@@ -1,0 +1,112 @@
+-- Copyright (C) 1991-2013 Altera Corporation
+-- Your use of Altera Corporation's design tools, logic functions 
+-- and other software and tools, and its AMPP partner logic 
+-- functions, and any output files from any of the foregoing 
+-- (including device programming or simulation files), and any 
+-- associated documentation or information are expressly subject 
+-- to the terms and conditions of the Altera Program License 
+-- Subscription Agreement, Altera MegaCore Function License 
+-- Agreement, or other applicable license agreement, including, 
+-- without limitation, that your use is for the sole purpose of 
+-- programming logic devices manufactured by Altera and sold by 
+-- Altera or its authorized distributors.  Please refer to the 
+-- applicable agreement for further details.
+
+-- Quartus II generated Memory Initialization File (.mif)
+
+WIDTH=8;
+DEPTH=256;
+
+ADDRESS_RADIX=HEX;
+DATA_RADIX=HEX;
+
+CONTENT BEGIN
+	000  :   D0;
+	001  :   08;
+	002  :   03;
+	003  :   09;
+	004  :   04;
+	[005..007]  :   00;
+	008  :   10;
+	009  :   30;
+	00A  :   D8;
+	[00B..00F]  :   00;
+	010  :   30;
+	011  :   14;
+	012  :   E0;
+	013  :   15;
+	014  :   00;
+	015  :   F0;
+	[016..02F]  :   00;
+	030  :   10;
+	031  :   08;
+	032  :   18;
+	033  :   06;
+	034  :   28;
+	035  :   D0;
+	036  :   20;
+	037  :   F0;
+	038  :   70;
+	039  :   28;
+	03A  :   D1;
+	03B  :   38;
+	03C  :   02;
+	03D  :   80;
+	03E  :   28;
+	03F  :   D2;
+	040  :   90;
+	041  :   28;
+	042  :   D3;
+	043  :   A0;
+	044  :   28;
+	045  :   D4;
+	046  :   A8;
+	047  :   28;
+	048  :   D5;
+	049  :   AA;
+	04A  :   28;
+	04B  :   D6;
+	04C  :   C0;
+	04D  :   03;
+	04E  :   28;
+	04F  :   D7;
+	050  :   20;
+	051  :   F1;
+	052  :   40;
+	053  :   70;
+	054  :   E0;
+	055  :   68;
+	[056..05F]  :   00;
+	060  :   50;
+	[061..067]  :   00;
+	068  :   F0;
+	[069..06F]  :   00;
+	070  :   30;
+	071  :   03;
+	072  :   38;
+	073  :   04;
+	074  :   28;
+	075  :   D8;
+	076  :   20;
+	077  :   F2;
+	078  :   88;
+	079  :   28;
+	07A  :   D9;
+	07B  :   84;
+	07C  :   28;
+	07D  :   DA;
+	07E  :   98;
+	07F  :   28;
+	080  :   DB;
+	081  :   20;
+	082  :   F3;
+	083  :   72;
+	084  :   28;
+	085  :   DC;
+	086  :   74;
+	087  :   28;
+	088  :   DD;
+	089  :   E8;
+	08A  :   60;
+	[08B..0FF]  :   00;
+END;

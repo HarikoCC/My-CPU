@@ -1,0 +1,153 @@
+-- Copyright (C) 1991-2013 Altera Corporation
+-- Your use of Altera Corporation's design tools, logic functions 
+-- and other software and tools, and its AMPP partner logic 
+-- functions, and any output files from any of the foregoing 
+-- (including device programming or simulation files), and any 
+-- associated documentation or information are expressly subject 
+-- to the terms and conditions of the Altera Program License 
+-- Subscription Agreement, Altera MegaCore Function License 
+-- Agreement, or other applicable license agreement, including, 
+-- without limitation, that your use is for the sole purpose of 
+-- programming logic devices manufactured by Altera and sold by 
+-- Altera or its authorized distributors.  Please refer to the 
+-- applicable agreement for further details.
+
+-- Quartus II generated Memory Initialization File (.mif)
+
+WIDTH=24;
+DEPTH=256;
+
+ADDRESS_RADIX=HEX;
+DATA_RADIX=HEX;
+
+CONTENT BEGIN
+	000  :   341A01;
+	001  :   121601;
+	002  :   3E8801;
+	003  :   000003;
+	[004..00F]  :   000000;
+	010  :   341A01;
+	011  :   121601;
+	012  :   3E8201;
+	013  :   000002;
+	[014..017]  :   000000;
+	018  :   341A01;
+	019  :   121601;
+	01A  :   3E8401;
+	01B  :   000002;
+	[01C..01F]  :   000000;
+	020  :   341A01;
+	021  :   121601;
+	022  :   3E8A01;
+	023  :   3E4011;
+	024  :   000002;
+	[025..027]  :   000000;
+	028  :   341A01;
+	029  :   121601;
+	02A  :   3E8A01;
+	02B  :   342011;
+	02C  :   000002;
+	[02D..02F]  :   000000;
+	030  :   341A01;
+	031  :   121601;
+	032  :   3E8A01;
+	033  :   3E8201;
+	034  :   000002;
+	[035..037]  :   000000;
+	038  :   341A01;
+	039  :   121601;
+	03A  :   3E8A01;
+	03B  :   3E8401;
+	03C  :   000002;
+	[03D..03F]  :   000000;
+	040  :   3ECC01;
+	041  :   00CE01;
+	042  :   3E4081;
+	043  :   3ECC01;
+	044  :   00CE01;
+	045  :   342081;
+	046  :   341A01;
+	047  :   121601;
+	048  :   3ECC01;
+	049  :   00CE01;
+	04A  :   341081;
+	04B  :   3E8601;
+	04C  :   000002;
+	[04D..04F]  :   000000;
+	050  :   1FCE01;
+	051  :   3ECC01;
+	052  :   343601;
+	053  :   1FCE01;
+	054  :   3ECC01;
+	055  :   343401;
+	056  :   1FCE01;
+	057  :   3ECC01;
+	058  :   343201;
+	059  :   000002;
+	[05A..06F]  :   000000;
+	070  :   136401;
+	071  :   000002;
+	072  :   006401;
+	073  :   000002;
+	074  :   1F6401;
+	075  :   000002;
+	[076..07F]  :   000000;
+	080  :   0C6401;
+	081  :   000002;
+	[082..083]  :   000000;
+	084  :   006441;
+	085  :   000002;
+	[086..087]  :   000000;
+	088  :   006461;
+	089  :   000002;
+	[08A..08F]  :   000000;
+	090  :   366401;
+	091  :   000002;
+	[092..097]  :   000000;
+	098  :   2C6401;
+	099  :   2C6201;
+	09A  :   2C6401;
+	09B  :   000002;
+	[09C..09F]  :   000000;
+	0A0  :   3C6401;
+	0A1  :   000002;
+	[0A2..0A7]  :   000000;
+	0A8  :   2C6401;
+	0A9  :   000002;
+	0AA  :   206401;
+	0AB  :   000002;
+	[0AC..0AF]  :   000000;
+	0B0  :   406401;
+	0B1  :   000002;
+	[0B2..0BF]  :   000000;
+	0C0  :   341A01;
+	0C1  :   121601;
+	0C2  :   3E8201;
+	0C3  :   3E8401;
+	0C4  :   1F4201;
+	0C5  :   80C802;
+	0C6  :   406401;
+	0C7  :   C0C400;
+	0C8  :   000002;
+	[0C9..0CF]  :   000000;
+	0D0  :   341A01;
+	0D1  :   3E8601;
+	0D2  :   000002;
+	[0D3..0DF]  :   000000;
+	0E0  :   80E300;
+	0E1  :   121601;
+	0E2  :   000002;
+	0E3  :   341A01;
+	0E4  :   3E8601;
+	0E5  :   000002;
+	[0E6..0E7]  :   000000;
+	0E8  :   C0EB00;
+	0E9  :   121601;
+	0EA  :   000002;
+	0EB  :   341A01;
+	0EC  :   3E8601;
+	0ED  :   000002;
+	[0EE..0EF]  :   000000;
+	0F0  :   000008;
+	[0F1..0FF]  :   000000;
+END;

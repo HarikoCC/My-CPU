@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="test3">
+		<CBX_INST_ENTRY INSTANCE_NAME="|test3|MYCPU:inst6|DIV:inst29|div8:inst|lpm_divide:LPM_DIVIDE_component" CBX_FILE_NAME="lpm_divide_60q.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|test3|RAM:inst5|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_1sj1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|test3|ROM32:inst4|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_dnb1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|test3|MYCPU:inst6|MUL:inst31|mul8:inst2|lpm_mult:lpm_mult_component" CBX_FILE_NAME="mult_scn.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|test3|SPRAM:inst10|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_luj1.tdf"/>
+	</PROJECT>
+</LOG_ROOT>

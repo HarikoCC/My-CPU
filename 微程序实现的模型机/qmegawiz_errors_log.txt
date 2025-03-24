@@ -1,0 +1,13 @@
+
+
+C:/Users/Administrator/Desktop/test3/MUL.vhd
+
+Oct 22 02PM:49:54>: The following design file, which has identical name but a different extension 
+from the specified variation file, already exists in the working directory:
+
+MUL.bdf
+
+This may create a conflict of design files and/or lead to undesirable side
+effects.
+
+Is it OK to continue file generation?

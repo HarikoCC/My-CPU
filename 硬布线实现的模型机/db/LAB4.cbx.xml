@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="LAB4">
+		<CBX_INST_ENTRY INSTANCE_NAME="|LAB4|RAM:inst15|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_fqj1.tdf"/>
+	</PROJECT>
+	<PROJECT NAME="MODELL">
+		<CBX_INST_ENTRY INSTANCE_NAME="|MODELL|RAMM:inst15|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_fqj1.tdf"/>
+	</PROJECT>
+</LOG_ROOT>
